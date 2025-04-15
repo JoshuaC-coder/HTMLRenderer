@@ -2,9 +2,7 @@
 
 ## Objective
 
-Render a simple HTML file using GUI tools by leveraging work with file I/O, string manipulation, and logic. This project builds on an existing HTML tokenizer and extends it to visually display HTML content in a simulated browser window.
-
----
+Render a simple HTML file using GUI tools by leveraging work with file I/O, string manipulation, and logic. This project works together with a HTML tokenizer and extends it to visually display HTML content in a simulated browser window.
 
 ## Features
 
@@ -13,6 +11,3 @@ Render a simple HTML file using GUI tools by leveraging work with file I/O, stri
 - Enforces max line lengths per tag type (e.g., 80 chars for normal text, 60 for `<h3>`, etc.).
 - Preserves line breaks and formatting for `<pre>` tags.
 - Treats HTML tags as case-insensitive.
-
----
-
